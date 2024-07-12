@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/c26dc440-8cfd-40e7-a254-1e2a234cf8ce)# Calculator
+# Calculator
 It is the 3rd task completed during my Encryptix Internship. In this task, I built a virtual calculator where inputs can be given using <br>
 the mouse or the keyboard (though there are some glitches with keyboard input).<br>
 I utilized basic JavaScript concepts, including string manipulation. Additionally,<br>

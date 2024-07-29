@@ -1,5 +1,5 @@
 # Calculator
-It is the 3rd task completed during my Encryptix Internship. In this task, I built a virtual calculator where inputs can be given using <br>
+It is  a virtual calculator made with HTML, CSS and Javascript where inputs can be given using <br>
 the mouse or the keyboard (though there are some glitches with keyboard input).<br>
 I utilized basic JavaScript concepts, including string manipulation. Additionally,<br>
 I learned various CSS properties, including Flexbox and Grid layout.
